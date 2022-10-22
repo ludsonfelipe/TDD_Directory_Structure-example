@@ -1,0 +1,6 @@
+README.md
+setup.py
+tdi_structure.egg-info/PKG-INFO
+tdi_structure.egg-info/SOURCES.txt
+tdi_structure.egg-info/dependency_links.txt
+tdi_structure.egg-info/top_level.txt
