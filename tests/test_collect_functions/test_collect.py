@@ -7,7 +7,7 @@ from src.collect_functions import collect
 @pytest.fixture(name='greeting',scope='module') # Desse modo podemos usar a função greeting mais de uma vez guardando o resultado dela em cache
 def greeting():
     greeting = 'hello'
-    sleep(10)
+    sleep(3)
     return greeting
 
 

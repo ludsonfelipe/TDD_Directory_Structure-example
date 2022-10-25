@@ -10,5 +10,3 @@ def imc_plot(imc_list):
     ax.plot(imc_list)
     return fig
 
-
-
