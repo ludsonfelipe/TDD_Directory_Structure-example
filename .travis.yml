@@ -3,8 +3,8 @@ python:
 - '3.9.7'
 install:
 - pip install -e . # adiciona as dependencias
-- pip install pytest-cov codecov #serve para adicionar o emblema de % de codigo testado
 - pip install matplotlib
+- pip install pytest-cov codecov #serve para adicionar o emblema de % de codigo testado
 script:
 - pytest --cov=src tests
 after_success:
