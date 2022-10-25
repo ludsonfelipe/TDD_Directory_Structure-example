@@ -4,6 +4,7 @@ python:
 install:
 - pip install -e . # adiciona as dependencias
 - pip install pytest-cov codecov #serve para adicionar o emblema de % de codigo testado
+- pip install matplotlib
 script:
 - pytest --cov=src tests
 after_success:
