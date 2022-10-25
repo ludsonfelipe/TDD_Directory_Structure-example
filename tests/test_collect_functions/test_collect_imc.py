@@ -3,7 +3,7 @@
 # receber 3 inputs
 # criamos 3 tipos de testes 
 # - Bad arguments (argumentos que testam error)| Special arguments (Argumentos que testam resultados impossiveis) | Normal arguments (argumentos que testam resultados possiveis)
-# dentro de cada classe, vai ter varios testes para uma função
+# dentro de cada classe, vai ter varios testes para uma função  
 
 #import sys
 #for i in sys.path:
