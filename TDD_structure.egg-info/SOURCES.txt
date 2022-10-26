@@ -1,0 +1,7 @@
+README.md
+setup.py
+TDD_structure.egg-info/PKG-INFO
+TDD_structure.egg-info/SOURCES.txt
+TDD_structure.egg-info/dependency_links.txt
+TDD_structure.egg-info/top_level.txt
+src/__init__.py
