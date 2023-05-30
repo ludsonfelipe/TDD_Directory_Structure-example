@@ -10,7 +10,7 @@ Pytest é um framework de testes em Python que facilita a escrita, organização
 
 Estrutura do repositório
 O repositório está organizado da seguinte maneira:
-
+```
 |- tests/
    |- test_collect_functions/
         |- test_collect_imc.py
@@ -29,7 +29,7 @@ O repositório está organizado da seguinte maneira:
 |- .travis.yml
 |- README.md
 |- requirements.txt
-
+```
 A pasta tests/ contém os arquivos de teste, cada um correspondendo a um módulo específico do código que está sendo testado. A pasta src se refere aos módulos que serão testados.
 
 Executando os testes
